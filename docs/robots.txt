@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://AppsForWindowsDesktop.github.io/threads-desktop/sitemap.xml
+
